@@ -1,0 +1,77 @@
+*{
+  box-sizing: border-box;
+}
+
+.container{
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: 50px;
+  margin-left: 17%;
+  margin-right: 17%;
+  border-radius: 15px;
+}
+
+#logo{
+  width: 20%;
+  margin-top: 7%;
+}
+
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+ .text1{
+   color: #25ff00;
+   font-family: Arial;
+   line-height: 5px;
+ }
+
+.buttoncontainer{
+  padding: 10px;
+  background-color: #25ff00;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.monopattino{
+  width: 800px;
+  font-family: Arial;
+  color: white;
+  padding: 20px;
+  line-height: 3px;
+  text-align: left;
+  margin-left: 8%;
+
+}
+
+.gino22{
+  font-size: 22px;
+  line-height: 45px;
+}
+
+.carica1{
+  width: 300px;
+  height: 23px;
+  background-color: #ffa500;
+  border-radius: 4px;
+}
+
+.carica2{
+  width: 500px;
+  height: 23px;
+  background-color: green;
+  border-radius: 4px;
+}
+
+.carica3{
+  width: 150px;
+  height: 23px;
+  background-color: red;
+  border-radius: 4px;
+}
+
+.spazio{
+  height: 50px;
+}
